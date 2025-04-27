@@ -1,4 +1,4 @@
-# Automatidata-Project
+# NYC TLC Predictive Analytics
 
 ## Project Title
 **Predictive Modeling and Analysis of New York City Taxi and Limousine Commission Data**
